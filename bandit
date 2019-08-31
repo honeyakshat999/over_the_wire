@@ -1,0 +1,52 @@
+bandit.labs.overthewire.org, on port 2220
+
+
+ch 0
+boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+
+ch1
+CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9   #to open filename "-"  use ./-
+
+ch2
+  
+
+UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK  #to open filename has spaces use "file name" or  file\ name\
+
+
+ch3
+pIwrPrtPN36QITSp3EQaw936yaFoFgAB  #to view hidden files use ls -a
+
+ch4
+koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+
+
+ch05
+DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+
+ch6
+  
+HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+
+ch7 
+
+cvX2JJa4CFALtqS87jk27qwqGhBM9plV //use grep to search  and | to input 1 st command as a input to another.
+
+ch 8
+
+UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR sort and use uniq command
+
+ch 9
+
+truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk  // use strings coomand instead of cat to print human readable strings
+
+ch 10
+
+IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR  //base64 -d filename to decode base64
+
+ch 11
+
+5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu // ceaser cypher
+
+
+
